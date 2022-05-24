@@ -1,0 +1,422 @@
+[
+	{
+		"vehicleId": "1",
+		"position": {
+			"x": -6,
+			"y": 0,
+			"z": -20
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "20",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "2",
+		"position": {
+			"x": -2,
+			"y": 0,
+			"z": -22
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "22",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "3",
+		"position": {
+			"x": 2,
+			"y": 0,
+			"z": -21
+		},
+		"vehicleType": 0,
+		"vehicleDistance": "21",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "4",
+		"position": {
+			"x": 5,
+			"y": 0,
+			"z": -24
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "24",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "5",
+		"position": {
+			"x": 8,
+			"y": 0,
+			"z": -20
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "20",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "1",
+		"position": {
+			"x": -6,
+			"y": 0,
+			"z": -15
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "15",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "2",
+		"position": {
+			"x": -2,
+			"y": 0,
+			"z": -17
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "17",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "3",
+		"position": {
+			"x": 2,
+			"y": 0,
+			"z": -16
+		},
+		"vehicleType": 0,
+		"vehicleDistance": "16",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "4",
+		"position": {
+			"x": 5,
+			"y": 0,
+			"z": -19
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "19",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "5",
+		"position": {
+			"x": 8,
+			"y": 0,
+			"z": -15
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "15",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},	
+	{
+		"vehicleId": "1",
+		"position": {
+			"x": -6,
+			"y": 0,
+			"z": -10
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "10",
+		"vehicleColor": 1,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "2",
+		"position": {
+			"x": -2,
+			"y": 0,
+			"z": -12
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "12",
+		"vehicleColor": 1,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "3",
+		"position": {
+			"x": 2,
+			"y": 0,
+			"z": -11
+		},
+		"vehicleType": 0,
+		"vehicleDistance": "11",
+		"vehicleColor": 1,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "4",
+		"position": {
+			"x": 5,
+			"y": 0,
+			"z": -14
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "14",
+		"vehicleColor": 1,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "5",
+		"position": {
+			"x": 8,
+			"y": 0,
+			"z": -10
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "10",
+		"vehicleColor": 1,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "1",
+		"position": {
+			"x": -6,
+			"y": 0,
+			"z": -5
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "5",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "2",
+		"position": {
+			"x": -2,
+			"y": 0,
+			"z": -7
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "7",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "6",
+		"position": {
+			"x": 2,
+			"y": 0,
+			"z": -25
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "20",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "4",
+		"position": {
+			"x": 5,
+			"y": 0,
+			"z": -9
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "9",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "7",
+		"position": {
+			"x": 8,
+			"y": 0,
+			"z": -27
+		},
+		"vehicleType": 1,
+		"vehicleDistance": "19",
+		"vehicleColor": 2,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "1",
+		"position": {
+			"x": -6,
+			"y": 0,
+			"z": 0
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "0",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "2",
+		"position": {
+			"x": -2,
+			"y": 0,
+			"z": -2
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "2",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "6",
+		"position": {
+			"x": 2,
+			"y": 0,
+			"z": -12
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "12",
+		"vehicleColor": 1,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "4",
+		"position": {
+			"x": 5,
+			"y": 0,
+			"z": -2
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "2",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "7",
+		"position": {
+			"x": 8,
+			"y": 0,
+			"z": -11
+		},
+		"vehicleType": 1,
+		"vehicleDistance": "11",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "1",
+		"position": {
+			"x": -6,
+			"y": 0,
+			"z": 4
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "0",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "2",
+		"position": {
+			"x": -2,
+			"y": 0,
+			"z": 4
+		},
+		"vehicleType": 2,
+		"vehicleDistance": "2",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "6",
+		"position": {
+			"x": 2,
+			"y": 0,
+			"z": 4
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "12",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "4",
+		"position": {
+			"x": 5,
+			"y": 0,
+			"z": 4
+		},
+		"vehicleType": 4,
+		"vehicleDistance": "2",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	},
+	{
+		"vehicleId": "7",
+		"position": {
+			"x": 8,
+			"y": 0,
+			"z": 4
+		},
+		"vehicleType": 1,
+		"vehicleDistance": "11",
+		"vehicleColor": 0,
+		"vehicleOrientation": "0",
+		"indicatorStatus": true,
+		"indicatorDirection": "Left"
+	}
+]
